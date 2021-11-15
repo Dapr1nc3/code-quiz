@@ -8,4 +8,8 @@ A website that offers fitness training services.
 * CSS
 
 Link to website below:)
-[Code Quiz]
+ 
+[Code Quiz](https://dapr1nc3.github.io/code-quiz/test.html)
+
+
+![](https://github.com/Dapr1nc3/code-quiz/blob/main/images/Screenshot1.PNG)
